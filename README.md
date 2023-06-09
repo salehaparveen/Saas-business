@@ -1,13 +1,6 @@
-![image](https://user-images.githubusercontent.com/26158226/155850630-137ae3be-aa29-487b-a422-e8fb4db634dc.png)
-
-Support Ukraine: [link](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
-
-
 ## SaaS Boilerplate
 
-Open source web app that saves you many days of work when building your own SaaS product. The boilerplate comes with many basic SaaS features (see [Features](https://github.com/async-labs/saas#features) below) so that you can focus on features that differentiate your product.
-
-If you want to learn how to build this project from scratch, check out our book: https://builderbook.org/book
+Open source web app that saves you many days of work when building your own SaaS product. The boilerplate comes with many basic SaaS features so that you can focus on features that differentiate your product.
 
 The open source project is located in the `saas` folder. If you purchased our book, codebases for each of the book's chapters are located in the `book` folder.
 
@@ -234,8 +227,6 @@ We give detailed instructions inside Chapter 9 and 10 of our SaaS Boilerplate bo
 
 For more detail, check `package.json` files in both `app` and `api` folders and project's root.
 
-To customize styles, check [this guide](https://github.com/async-labs/builderbook#add-your-own-styles).
-
 
 ## Screenshots
 
@@ -271,25 +262,6 @@ Purchasing a subscription:
 Payment history:
 ![12_SaaS_PaymentHistory](https://user-images.githubusercontent.com/26158226/61417510-27f94680-a8ac-11e9-88d1-1eef120dcc34.png)
 
-
-## Contributing
-
-Want to support this project? Consider buying our [books](https://builderbook.org/).
-
-
-## Team
-
-- [Kelly Burke](https://github.com/klyburke)
-- [Timur Zhiyentayev](https://github.com/tima101)
-
-You can contact us at team@async-labs.com.
-
-If you are interested in working with us, check out [Async Labs](https://async-labs.com/).
-
-
-## License
-
-All code in this repository is provided under the [MIT License](https://github.com/async-labs/saas/blob/master/LICENSE.md).
 
 ## Project structure
 
